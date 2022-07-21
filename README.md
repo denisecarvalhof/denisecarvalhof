@@ -1,16 +1,26 @@
-### Hi there 👋
+## Oii eu sou a Denise Carvalho, uma desenvolvedora apaixonada pela área!
 
-<!--
-**denisecarvalhof/denisecarvalhof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/denisecarvalhofrts)](https://github.com/denisecarvalhofrts)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denise-carvalho-3b6772157)](https://www.linkedin.com/in/denise-carvalho-3b6772157)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denisecarvalhofrts@gmail.com)](mailto:denisecarvalhofrts@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/eidenisecarvalho/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/henriquehll)
 
-Here are some ideas to get you started:
+#### Atualmente tenho conhecimentos nas seguintes tecnologias:
+⚪ JavaScript
+⬜ Bootstrap
+🟡 HTML/CSS
+🟨 PHP
+🟠 MySQL
+🟧 AngularJS
+🔴 Java
+🟥 Python
+🟢 C#
+🟩 Git
+🔵 C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Estou estudando:
+🟣 Flutter
+🟪 React
+
+Qualquer dúvida me chama pra bater um papo.
